@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/b5fb67788aebb1e168f471586e555a19d28655dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf2494d96ed63af96efc1ea9b0a197c35f3ec39b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/d8d1f35996a9a1192dc6471388d0d21a4f558e3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8559b5e9f519bb9dac854c02a169af0a9457523e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/4af3f1418418a8db72a842c5f05b3fdfe3a65771/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1927c14ebbc31e784021e08c6888718b3d23b62f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/c87ee25860c22421e8dfa57544919078441c40de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8ff96193c9916e9ed1e6da603fd7cbc3d1e65cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/735e9868ff9d8b9f932956beecc01514bd0ba95f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff2851d0befe3e4b49ccf20b7e8d2fd0f07be5fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/e62477ff28614311aeefce59bd80f08c2a938d61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57f77519c1080d7b93e4030d90076b07dea05bb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_ef24a839e8a888c24df2015a92485861522798a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/9f04c138cef83785e61dd726f3c99f8401f2ecfa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0d7699041a3364b35ab77fdc5bd71dc477b103f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/bddb5a49b24f2d8096af2531b0365c438df829d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f32c85c9a763a86a4d117c5f5c845e67e0807e9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/2f7b4a7640d5b9b33756d468cb08f816020744be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="259789964c890227a89484819ddecc617b0cb322">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d540ff99073ca920473f83a0726ed3a0b428d526/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/d93f38f195719c68dccce2e8332ac6a79748bcaf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_191c63ac1faf0ce6b6241c489a71553f05307cf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/ba195415744d2cc6f5e02fd4ef9e742fc9fcf8de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b205a86bc47bc725ecd86585056803c29d98136b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/.android/build-cache/3998d986572dc161d09c66541596caf99c3b13a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4ba60a3bd6dd17d119b16f6927f2d6e5c21b1fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2335dea4175461253eaedc8d6d0aab45b227039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89c28bd1e806c20f51d37479abf26d84b899bcdb">
+        <dex dex="/Users/naeem/Git/aws-sdk-android-samples/AmazonCognitoAuthDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05551fd814c4a0e15edff72a79e61df02d29c94e/classes.dex" />
+    </item>
+
+</items>
