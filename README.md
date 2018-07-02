@@ -17,6 +17,9 @@ If you are looking for our SDK to access all user APIs for Cognito User Pools, s
 Find the Android sample for this SDK at the [GitHub Repository](https://github.com/awslabs/aws-sdk-android-samples/tree/master/AmazonCognitoAuthDemo).
 
 ## Dependencies
+
+Working with `Android Studio 3.1.3`
+
 Add the following dependencies to your `app/build.gradle`.
 <br/>
 
@@ -129,7 +132,8 @@ We welcome developer feedback on this project. You can reach us by creating an i
 
 ## Screenshots
 
-![Screenshot](screenshots/strings.png)
-![Screenshot](screenshots/cognito-up-client.png)
+![Strings](screenshots/strings.png)
+----
+![Client Configs](screenshots/cognito-up-client.png)
 
 
