@@ -119,7 +119,17 @@ This will sign out the current user by clearing cached tokens.<br/>
 ```java
 cognitoAuth.signOut();
 ```
+
 # Developer Feedback
 We welcome developer feedback on this project. You can reach us by creating an issue on the GitHub repository or posting to the Amazon Cognito Identity forums and the below blog post:<br/>
 * [GitHub Repository](https://github.com/aws/aws-sdk-android/tree/master/aws-android-sdk-cognitoauth)
 * [AWS Forums](https://forums.aws.amazon.com/index.jspa)
+
+
+
+## Screenshots
+
+![Screenshot](screenshots/strings.png)
+![Screenshot](screenshots/cognito-up-client.png)
+
+
